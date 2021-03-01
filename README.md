@@ -1,2 +1,3 @@
 # JAVA_MULTI_THREAD
-Proyect with educational purpose.  We see multi-threaded programming in java with basic examples. See you.
+
+Proyecto con propósitos educacionales, forma parte del curso de programación multi-hilo en java en mi canal de Youtube JeyCode.
