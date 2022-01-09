@@ -4,6 +4,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import com.github.javafaker.Faker;
 
+
 public class MailsProducer extends ProducerConsumerBase
 {
 
